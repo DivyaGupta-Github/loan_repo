@@ -1,0 +1,41 @@
+{
+  "name": "loan_Automation_testing",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.Testing.Activities": "[1.0.0]",
+    "UiPath.UIAutomation.Activities": "[20.8.0-preview]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.3.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "7cfb812c-70d5-4bbf-949d-73007865a9ed",
+        "fileName": "TestCase.xaml"
+      }
+    ]
+  },
+  "expressionLanguage": "VisualBasic"
+}
